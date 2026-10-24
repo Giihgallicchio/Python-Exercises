@@ -1,71 +1,60 @@
-# | Programação em Python
+#  PROJETO — PROGRAMAÇÃO EM PYTHON
 
-Repositório com exercícios e projetos desenvolvidos durante meus estudos de Python no SENAI.
+##  Tema do Projeto
+### Exercícios Práticos de Lógica de Programação e Estruturas de Dados — SENAI
 
+---
 
+##  Sobre o Projeto
 
-## | Sobre
+Este repositório reúne atividades práticas, desafios de código e projetos desenvolvidos durante os meus estudos de **Lógica de Programação** com a linguagem **Python** na instituição **SENAI**.
 
-Este repositório reúne atividades práticas focadas no aprendizado de lógica de programação utilizando Python.
+O foco principal deste conjunto de laboratórios foi construir uma base sólida de raciocínio lógico, dominando as estruturas fundamentais que regem o desenvolvimento de software e progredindo gradualmente de pequenos scripts de fixação até uma aplicação integrada final.
 
-Os conteúdos vão desde conceitos básicos até pequenos projetos, com o objetivo de desenvolver raciocínio lógico e organização de código.
+---
 
+##  Objetivos do Aprendizado
 
+*  **Lógica Pura:** Desenvolver o raciocínio computacional para resolução de problemas estruturados.
+*  **Sintaxe Dinâmica:** Praticar a escrita de código limpo utilizando as convenções e recursos nativos do Python.
+*  **Algoritmos:** Implementar soluções eficientes para controle de fluxos de dados e tomadas de decisão.
+*  **Modularização:** Compreender a transição e a importância de organizar códigos complexos em estruturas reutilizáveis.
 
-## | Objetivo
+---
 
-- Aprender lógica de programação  
-- Praticar a sintaxe do Python  
-- Desenvolver soluções para problemas  
-- Evoluir na construção de projetos  
+##  Conteúdos e Conceitos Estudados
 
+Os exercícios práticos cobrem os pilares fundamentais do desenvolvimento em Python:
 
+* **Controle de Fluxo:** Tomadas de decisão baseadas em operadores lógicos com estruturas condicionais (`if`, `elif`, `else`).
+* **Estruturas de Repetição:** Loops de processamento controlado utilizando laços iterativos determinísticos (`for`) e condicionais (`while`).
+* **Estruturas de Dados:** Armazenamento e manipulação de coleções de dados indexadas e imutáveis através de **Tuplas**.
+* **Tratamento de Textos:** Técnicas avançadas de formatação, fatiamento e manipulação de fluxos de Strings.
 
-## | Tecnologias utilizadas
+---
 
-- Python  
-- Google Colab  
+##  Estrutura do Repositório
 
+Os notebooks estão organizados de forma incremental para refletir a jornada de aprendizado:
 
+```text
+├── Condicional.ipynb                 # Exercícios focados em tomada de decisão (if/else)
+├── FOR.ipynb                         # Estruturas de repetição com loops contados
+├── While.ipynb                       # Estruturas de repetição baseadas em condições lógicas
+├── Manipulação_de_string.ipynb       # Métodos de tratamento, busca e limpeza de textos
+├── Tupla.ipynb                       # Implementação e manipulação de coleções sequenciais imutáveis
+├── Código_sem_modularização.ipynb    # Estudo de caso de código linear antes da refatoração
+└── Projeto_Final.ipynb               # Aplicação consolidada reunindo todos os conceitos
+```
 
-## | Conteúdos estudados
+---
 
-Durante os exercícios, foram trabalhados:
+##  Destaque do Projeto
 
-- Estruturas condicionais (`if/else`)  
-- Estruturas de repetição (`for`, `while`)  
-- Manipulação de strings  
-- Tuplas  
-- Organização de código  
-- Lógica de programação  
+O arquivo  **`Projeto_Final.ipynb`** funciona como a síntese de toda a trilha de estudos. Ele reúne em um único ecossistema prático a junção de todas as regras de negócio, manipulações de tipos e fluxos de controle aprendidos ao longo do curso, demonstrando a evolução de um raciocínio básico para uma aplicação lógica estruturada.
 
+---
 
+##  Referência
 
-## | Estrutura do Projeto
-
-- `Condicional.ipynb` → Exercícios com estruturas condicionais  
-- `FOR.ipynb` → Estruturas de repetição com for  
-- `While.ipynb` → Estruturas de repetição com while  
-- `Manipulação_de_string.ipynb` → Trabalhos com strings  
-- `Tupla.ipynb` → Uso de tuplas  
-- `Código_sem_modularização.ipynb` → Código sem divisão em funções  
-- `Projeto_Final.ipynb` → Projeto final aplicando os conceitos
-
-
-
-## | Destaque
-
-O arquivo **Projeto_Final.ipynb** reúne a aplicação prática dos conceitos aprendidos ao longo dos estudos.
-
-
-
-## | Evolução
-
-Este repositório representa minha evolução no aprendizado de Python, desde exercícios básicos até aplicações mais estruturadas.
-
-
-
-## | Autora
-- Giovanna Galichio  
-
-
+Atividades de laboratório projetadas e desenvolvidas com base nas diretrizes pedagógicas e materiais de apoio das aulas de programação do **SENAI**.
